@@ -28,10 +28,20 @@
 |모집|Fundamental Fellowship|[AI를 잘 활용하는 개발자로 성장하기](https://github.com/Pseudo-Lab/9th-builder/discussions/15)|[유재욱](https://github.com/potea)  |8명    |#DataCamp #ML #ToyProject|온라인|
 |모집|Fundamental Fellowship|[CoDE: Concept of Data Engineering](https://github.com/Pseudo-Lab/9th-builder/discussions/20)|[한수민](https://github.com/gxxdido)  |7명    |#DataCamp #DataEngineer |온라인|
 
+*상세 빌더 소개 내용은 [빌더 소개](https://github.com/Pseudo-Lab/9th-builder/discussions/2)를 참고해주세요.
+
 ### 타입
 - **Fundamental Fellowship**: Datacamp의 후원을 받아, Datacamp의 교육 과정을 무료로 함께 수강하며 성장하는 모임입니다. 기초와 입문 과정인 경우 추천하며, 기초를 탄탄히 하고자 할 때에도 큰 도움이 됩니다! 만족도가 매우 높은 플랫폼이고, 인당 $300 가치의 라이센스를 부여하며, 지역적 격차 등 성장의 기회를 얻지 못한 이들을 우선적으로 선정합니다.
 - **Community Study** (Default): 일반적으로 생각하는 스터디 그룹 & 팀 프로젝트입니다. 자율적으로 계획하고 진행하며, 디비전의 코디네이터가 한 기수동안 온보딩, 팀 빌딩 등 전반적인 과정을 도와줍니다. 특별히 1, 3번을 선택하지 않는다면 2번이 default로 설정됩니다.
 - **United Research**: 가짜연구소 내에 존재하는 Research 조직에 편입하여 활동할 수 있습니다. Research는 여러 스터디/프로젝트들을 포함하는 조직으로, 리드가 코디네이터보다는 좀 더 분야에 대한 전문 지식과 경험을 갖고 빌더들을 이끌어줍니다. Research의 다른 스터디/프로젝트/빌더/러너와 교류할 수 있으며, 함께 행사를 진행하는 등 더 유기적인 활동을 할 수 있습니다. 새로운 Research를 구성하기 위해서는 1기수 이상을 빌더로 온전히 마쳐야합니다.
+
+## 모집 포스터
+
+![](imgs/recruit/001.png)
+![](imgs/recruit/002.png)
+![](imgs/recruit/003.png)
+![](imgs/recruit/004.png)
+![](imgs/recruit/005.png)
 
 ## 가짜연구소 9기 빌더(운영진) 소개
 *상세 소개 내용은 [빌더 소개](https://github.com/Pseudo-Lab/9th-builder/discussions/2)를 참고해주세요.
