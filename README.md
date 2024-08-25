@@ -24,7 +24,7 @@
 |모집|Community Study|[RAG is All You Need!](https://github.com/Pseudo-Lab/9th-builder/discussions/13)|[박수형](https://github.com/Pseudo-Lab/9th-builder/discussions/13)  |5명    |#RAG #LangChain |온라인|
 |모집|Community Study|[내게 딱 맞는 건강디저트 추천시스템 구현하기](https://github.com/Pseudo-Lab/9th-builder/discussions/8)|[심세원](https://github.com/thrcle)  |5명    |#추천시스템 #실습 |온라인|
 |모집|Community Study|[모여봐요 강화학숲 책거리](https://github.com/Pseudo-Lab/9th-builder/discussions/17)|[민예린](https://github.com/lynnminn)  |2명    |#강화학습 #논문 #서비스|온라인|
-|모집|Community Study|[스페셜한 Spatial AI](https://github.com/Pseudo-Lab/9th-builder/discussions/10)|[장형기](https://github.com/changh95)  |8명    |#Spatial AI #SLAM #NeRF/3DGS|온라인|
+|모집|Community Study|[스페셜한 Spatial AI](https://github.com/Pseudo-Lab/9th-builder/discussions/10)|[장형기](https://github.com/changh95)  |8명    |#Spatial AI #SLAM #GBP #DeepSLAM|온라인|
 |모집|Fundamental Fellowship|[AI를 잘 활용하는 개발자로 성장하기](https://github.com/Pseudo-Lab/9th-builder/discussions/15)|[유재욱](https://github.com/potea)  |8명    |#DataCamp #ML #ToyProject|온라인|
 |모집|Fundamental Fellowship|[CoDE: Concept of Data Engineering](https://github.com/Pseudo-Lab/9th-builder/discussions/20)|[한수민](https://github.com/gxxdido)  |7명    |#DataCamp #DataEngineer |온라인|
 
