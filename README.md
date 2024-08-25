@@ -10,23 +10,23 @@
 
 ## 가짜연구소 9기 아카데미 프로그램 소개
 
-|기수|상태  |타입         |프로젝트명                                         |담당빌더|모집인원|키워드                   |장소|
-|---|------|-------------|--------------------------------------------------|-------|--------|------------------------|----|
-|9기|진행|Operation   |Why로부터 시작하여 믿을 수 있는 동료들과 함께 성장하기|김찬란  |0명    |#생성모델 #실습 #경진대회|온라인|
-|9기|진행|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Causal inference + X](https://github.com/Pseudo-Lab/9th-builder/discussions/18)|[김성수](https://github.com/fenzhantw)  |0명    |#생성모델 #실습 #경진대회|온라인|
-|9기|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Bridging Causal Inference and Real-World Evidence: A Study of FDA and Other Regulatory Guidelines](https://github.com/Pseudo-Lab/9th-builder/discussions/9)|[박상호](https://github.com/shstat1729)  |6명    |#Causal inference #RWE #규제 과학|온라인|
-|9기|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Life is short, You need Recommendation system](https://github.com/Pseudo-Lab/9th-builder/discussions/21)|[이경찬](https://github.com/kyeongchan92)  |2명    |#추천시스템 #LLM #논문구현|온라인|
-|9기|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Text-to-Image Generation (feat. Diffusion) - Season 4](https://github.com/Pseudo-Lab/9th-builder/discussions/19)|[조상우](https://github.com/jasonjo97) |4명    |#논문연구 #Diffusion #Generation|온라인|
-|9기|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[깃헙에 NLP 잔디심기 5 : LLM Engineer Handbook 만들기! <경량화, 서빙, 로깅>](https://github.com/Pseudo-Lab/9th-builder/discussions/16)|[정한결](https://github.com/HangryDev) |99명    |#RAG #이론 #발표|온라인|
-|9기|모집|Community Study|[CS236: Deep Generative Models](https://github.com/Pseudo-Lab/9th-builder/discussions/11)|[박진호](https://github.com/Pseudo-Lab/9th-builder/discussions/11)  |6명    |#생성모델 #실습 #Diffusion |온라인|
-|9기|모집|Community Study|[Kaggle 정복하기](https://github.com/Pseudo-Lab/9th-builder/discussions/14)|[성정재](https://github.com/JeongJae-Private) |4명    |#Data Scientist #Kaggle #경진대회|온라인|
-|9기|모집|Community Study|[NeRF with Real world](https://github.com/Pseudo-Lab/9th-builder/discussions/7)|[박원기](https://github.com/kalelpark)  |5명    |#NeRF #RealWorld #논문 |온라인|
-|9기|모집|Community Study|[RAG is All You Need!](https://github.com/Pseudo-Lab/9th-builder/discussions/13)|[박수형](https://github.com/Pseudo-Lab/9th-builder/discussions/13)  |5명    |#RAG #LangChain |온라인|
-|9기|모집|Community Study|[내게 딱 맞는 건강디저트 추천시스템 구현하기](https://github.com/Pseudo-Lab/9th-builder/discussions/8)|[심세원](https://github.com/thrcle)  |5명    |#추천시스템 #실습 |온라인|
-|9기|모집|Community Study|[모여봐요 강화학숲 책거리](https://github.com/Pseudo-Lab/9th-builder/discussions/17)|[민예린](https://github.com/lynnminn)  |2명    |#강화학습 #논문 #서비스|온라인|
-|9기|모집|Community Study|[스페셜한 Spatial AI](https://github.com/Pseudo-Lab/9th-builder/discussions/10)|[장형기](https://github.com/changh95)  |8명    |#Spatial AI #SLAM #NeRF/3DGS|온라인|
-|9기|모집|Fundamental Fellowship|[AI를 잘 활용하는 개발자로 성장하기](https://github.com/Pseudo-Lab/9th-builder/discussions/15)|[유재욱](https://github.com/potea)  |8명    |#DataCamp #ML #ToyProject|온라인|
-|9기|모집|Fundamental Fellowship|[CoDE: Concept of Data Engineering](https://github.com/Pseudo-Lab/9th-builder/discussions/20)|[한수민](https://github.com/gxxdido)  |7명    |#DataCamp #DataEngineer |온라인|
+|상태  |타입         |프로젝트명                                         |담당빌더|모집인원|키워드                   |장소|
+|------|-------------|--------------------------------------------------|-------|--------|------------------------|----|
+|진행|Operation   |Why로부터 시작하여 믿을 수 있는 동료들과<br/> 함께 성장하기|김찬란  |0명    |#생성모델 #실습 #경진대회|온라인|
+|진행|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Causal inference + X](https://github.com/Pseudo-Lab/9th-builder/discussions/18)|[김성수](https://github.com/fenzhantw)  |0명    |#생성모델 #실습 #경진대회|온라인|
+|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Bridging Causal Inference and Real-World Evidence:<br/> A Study of FDA and Other Regulatory Guidelines](https://github.com/Pseudo-Lab/9th-builder/discussions/9)|[박상호](https://github.com/shstat1729)  |6명    |#Causal inference #RWE #규제 과학|온라인|
+|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Life is short, You need Recommendation system](https://github.com/Pseudo-Lab/9th-builder/discussions/21)|[이경찬](https://github.com/kyeongchan92)  |2명    |#추천시스템 #LLM #논문구현|온라인|
+|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[Text-to-Image Generation (feat. Diffusion)<br/> - Season 4](https://github.com/Pseudo-Lab/9th-builder/discussions/19)|[조상우](https://github.com/jasonjo97) |4명    |#논문연구 #Diffusion #Generation|온라인|
+|모집|[United Research](https://github.com/Pseudo-Lab/9th-builder/discussions/12#discussioncomment-10438664)|[깃헙에 NLP 잔디심기 5 :<br/> LLM Engineer Handbook 만들기! <경량화, 서빙, 로깅>](https://github.com/Pseudo-Lab/9th-builder/discussions/16)|[정한결](https://github.com/HangryDev) |99명    |#RAG #이론 #발표|온라인|
+|모집|Community Study|[CS236: Deep Generative Models](https://github.com/Pseudo-Lab/9th-builder/discussions/11)|[박진호](https://github.com/Pseudo-Lab/9th-builder/discussions/11)  |6명    |#생성모델 #실습 #Diffusion |온라인|
+|모집|Community Study|[Kaggle 정복하기](https://github.com/Pseudo-Lab/9th-builder/discussions/14)|[성정재](https://github.com/JeongJae-Private) |4명    |#Data Scientist #Kaggle #경진대회|온라인|
+|모집|Community Study|[NeRF with Real world](https://github.com/Pseudo-Lab/9th-builder/discussions/7)|[박원기](https://github.com/kalelpark)  |5명    |#NeRF #RealWorld #논문 |온라인|
+|모집|Community Study|[RAG is All You Need!](https://github.com/Pseudo-Lab/9th-builder/discussions/13)|[박수형](https://github.com/Pseudo-Lab/9th-builder/discussions/13)  |5명    |#RAG #LangChain |온라인|
+|모집|Community Study|[내게 딱 맞는 건강디저트 추천시스템 구현하기](https://github.com/Pseudo-Lab/9th-builder/discussions/8)|[심세원](https://github.com/thrcle)  |5명    |#추천시스템 #실습 |온라인|
+|모집|Community Study|[모여봐요 강화학숲 책거리](https://github.com/Pseudo-Lab/9th-builder/discussions/17)|[민예린](https://github.com/lynnminn)  |2명    |#강화학습 #논문 #서비스|온라인|
+|모집|Community Study|[스페셜한 Spatial AI](https://github.com/Pseudo-Lab/9th-builder/discussions/10)|[장형기](https://github.com/changh95)  |8명    |#Spatial AI #SLAM #NeRF/3DGS|온라인|
+|모집|Fundamental Fellowship|[AI를 잘 활용하는 개발자로 성장하기](https://github.com/Pseudo-Lab/9th-builder/discussions/15)|[유재욱](https://github.com/potea)  |8명    |#DataCamp #ML #ToyProject|온라인|
+|모집|Fundamental Fellowship|[CoDE: Concept of Data Engineering](https://github.com/Pseudo-Lab/9th-builder/discussions/20)|[한수민](https://github.com/gxxdido)  |7명    |#DataCamp #DataEngineer |온라인|
 
 ### 타입
 - **Fundamental Fellowship**: Datacamp의 후원을 받아, Datacamp의 교육 과정을 무료로 함께 수강하며 성장하는 모임입니다. 기초와 입문 과정인 경우 추천하며, 기초를 탄탄히 하고자 할 때에도 큰 도움이 됩니다! 만족도가 매우 높은 플랫폼이고, 인당 $300 가치의 라이센스를 부여하며, 지역적 격차 등 성장의 기회를 얻지 못한 이들을 우선적으로 선정합니다.
